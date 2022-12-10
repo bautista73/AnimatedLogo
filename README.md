@@ -1,4 +1,1 @@
-# AnimatedLogo
-# AnimatedLogo
-# AnimatedLogo
-# AnimatedLogo
+# Animated Logo for portfolio
