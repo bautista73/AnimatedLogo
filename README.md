@@ -1,1 +1,2 @@
-# Animated Logo for portfolio
+# Animated logo for portfolio site
+stack used: HTML/CSS JavaScript & Sass
